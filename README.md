@@ -1,6 +1,6 @@
   TUGAS MINGGUAN PRAKTIKUM PEMROGRAMAN JARINGAN
-  Nama  : Muhammad Alfarobi
-  NIM  : 23343011
+  /* Nama  : Muhammad Alfarobi
+  /* NIM  : 23343011
 
   Penjelasan Setiap Jobsheet:
   1. Jobsheet 1 Mandiri dan Non Mandiri > Pengenalan dan Dasar Node.js
